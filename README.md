@@ -38,8 +38,6 @@ streamlit run app.py
 
 The dashboard requires the `28_Trial_of_violent_crimes_by_courts.csv` dataset to function. This file should be placed in the same directory as `app.py`.
 
-Note: The dataset is not included in this repository and needs to be uploaded separately.
-
 ## Branch Information
 
 This repository uses the `main` branch as the default branch instead of the traditional `master` branch.
